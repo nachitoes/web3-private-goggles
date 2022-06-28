@@ -7,7 +7,7 @@
 ! license: Mozilla Public License 2.0
 
 $discard,site=youtube.*
-$boost=3, site=*.onion
+
 
 $boost=3,site=opensea.io
 $boost=3,site=odysee.com
