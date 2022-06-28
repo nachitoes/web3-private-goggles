@@ -9,11 +9,20 @@
 $discard,site=youtube.com
 
 
-$boost=3,site=opensea.io
-$boost=3,site=odysee.com
-$boost=3,site=brave.com
-$boost=3,site=mozilla.org
-$boost=3,site=blog.mozilla.org
-$boost=3,site=vid.puffyan.us
-$boost=3,site=piped.kavin.rocks
-$boost=3,site=ecosia.org
+$boost=4,site=opensea.io
+$boost=5,site=odysee.com
+$boost=2,site=brave.com
+$boost=4,site=mozilla.org
+$boost=5,site=blog.mozilla.org
+$boost=5,site=vid.puffyan.us
+$boost=5,site=piped.kavin.rocks
+$boost=5,site=ecosia.org
+$boost=4,site=dappradar.com
+$boost=4,site=dapp.com
+$boost=4,site=liquidapps.io
+$boost=3,site=coingecko.com
+$boost=3,site=coinmarketcap.com
+$boost=3,site=cointelegraph.com
+$boost=3,site=decrypt.co
+$boost=2,site=coindesk.com
+$boost=3,site=bitcoinist.com
