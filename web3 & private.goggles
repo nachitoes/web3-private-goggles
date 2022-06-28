@@ -6,7 +6,8 @@
 ! issues: https://github.com/nachitoes/web3-private-goggles/issues
 ! license: Mozilla Public License 2.0
 
-$downrank,site=youtube.*
+$discard,site=youtube.*
+$boost=3, site=*.onion
 
 $boost=3,site=opensea.io
 $boost=3,site=odysee.com
@@ -15,3 +16,4 @@ $boost=3,site=mozilla.org
 $boost=3,blog=blog.mozilla.org
 $boost=3,site=vid.puffyan.us
 $boost=3,site=piped.kavin.rocks
+$boost=3,site=ecosia.org
