@@ -1,6 +1,6 @@
 ! name: Web3 & Private
 ! description: With this goggle the web3 and/or private results will be boosted
-! public: public
+! public: true
 ! avatar: #FE396F
 ! author: Ignacio
 ! issues: https://github.com/nachitoes/web3-private-goggles/issues
